@@ -1,0 +1,6 @@
+*.xlsx
+node_modules/
+.vite/
+**/chunk-*.js
+**/chunk-*.js.map
+dist/
